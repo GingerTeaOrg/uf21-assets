@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/valentin/tracks/curve/asphalt/Fahrflaeche_1"
+	$phong 1
+}

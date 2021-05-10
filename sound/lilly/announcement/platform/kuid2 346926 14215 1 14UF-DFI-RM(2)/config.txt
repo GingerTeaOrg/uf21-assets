@@ -1,0 +1,53 @@
+﻿
+kuid                                    <kuid2:346926:14215:1>
+username                                "14UF-DFI-RM(2)"
+kind                                    "mocrossing"
+trainz-build                            3.7
+
+mesh-table
+{
+  default
+  {
+    mesh                                "UF.im"
+    anim                                "UF.kin"
+    animation-loop-speed                999
+    auto-create                         1
+  }
+}
+light                                   0
+category-class                          "WX"
+description                             "UF DFI"
+author                                  "Alexey Gryzin"
+contact-website                         "
+-"
+contact-email                           "alterralexey@ya.ru"
+
+attached-track
+{
+  track
+  {
+    track                               <kuid:346926:14176>
+    useadjoiningtracktype               0
+    
+    vertices
+    {
+      0                                 "a.dfitracka"
+      1                                 "a.dfitrackb"
+    }
+  }
+}
+
+thumbnails
+{
+  0
+  {
+    image                               "thumbnail.jpg"
+    width                               240
+    height                              180
+  }
+}
+
+kuid-table
+{
+  0                                     <kuid:346926:14176>
+}

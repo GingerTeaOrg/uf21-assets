@@ -1,0 +1,19 @@
+Name:           b.r.base
+Calculated or.: 0.00 -0.00 0.00
+Position:       0.000000 0.000000 0.000000
+
+Name:           b.r.dort01
+Calculated or.: 0.00 -0.00 0.00
+Position:       2.000000 0.000000 2.000000
+
+Name:           b.r.dort
+Calculated or.: 0.00 -0.00 0.00
+Position:       2.000000 0.000000 0.000000
+
+Name:           b.r.hier
+Calculated or.: 0.00 -0.00 0.00
+Position:       -2.000000 0.000000 0.000000
+
+Name:           b.r.hier01
+Calculated or.: 0.00 -0.00 0.00
+Position:       -3.000000 0.000000 2.000000

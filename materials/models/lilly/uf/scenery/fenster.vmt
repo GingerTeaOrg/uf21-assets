@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/uf/scenery/fenster"
+	"$translucent" 1
+	"$surfaceprop" "glass"
+}

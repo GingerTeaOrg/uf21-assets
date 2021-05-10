@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/uf/scenery/citaro/maintal"
+	"$translucent" 1
+	$mostlyopaque
+}
