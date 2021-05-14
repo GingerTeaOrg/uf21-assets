@@ -1,5 +1,4 @@
 "VertexLitGeneric"
 {
 	"$basetexture" "models/lilly/uf/scenery/3_01frankfurt"
-	"$translucent" 1
 }
