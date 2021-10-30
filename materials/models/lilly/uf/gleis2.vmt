@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/uf/track/gleis2"
+	$bumpmap	"models/lilly/uf/track/gleis2_n"
+}
