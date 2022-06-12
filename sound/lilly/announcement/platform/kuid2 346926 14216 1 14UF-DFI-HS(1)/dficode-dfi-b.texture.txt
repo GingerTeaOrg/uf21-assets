@@ -1,3 +1,0 @@
-Primary=dficode.jpg
-Alpha=dfi-b.jpg
-Tile=st

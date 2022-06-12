@@ -1,2 +1,0 @@
-Primary=station-beleuchtung-2.jpg
-Tile=st

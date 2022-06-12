@@ -1,2 +1,0 @@
-Primary=wand01.jpg
-Tile=st
