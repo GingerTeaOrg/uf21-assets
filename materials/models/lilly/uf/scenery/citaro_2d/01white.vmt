@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/uf/scenery/citaro_2d/01white"
+	"$translucent" 1
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/uf/scenery/citaro_2d/vdv_display_error_elec"
+	"$translucent" 1
+}

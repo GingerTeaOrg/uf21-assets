@@ -1,0 +1,9 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/v92/props_lightrail_ffm/structures/station_a_shadow
+
+	$translucent 1
+
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/uf/stations/enkheim/station02"
+	"$translucent" 1
+}

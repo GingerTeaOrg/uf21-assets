@@ -1,0 +1,17 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/v92/props_lightrail_ffm/structures/station_a_fence1
+	$bumpmap dev/bump_normal
+
+	$halflambert 1
+
+	$translucent 1
+
+	// $detail detail/noise_detail_01
+	// $detailscale 4
+	// $detailblendfactor 0.9
+	// $detailblendmode 0
+
+}

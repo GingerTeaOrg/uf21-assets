@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/uf/structures/stations/heddernheimerldstr/astation-bahnsteigzaun02"
+	"$translucent" 1
+}
