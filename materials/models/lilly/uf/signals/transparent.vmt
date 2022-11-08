@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/lilly/uf/signals/transparent"
+	"$alphatest" 1
+}
