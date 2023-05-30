@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/lilly/uf/trackside/signals/main"
+	"$surfaceprop" "Metal"
+}
