@@ -1,0 +1,12 @@
+"patch"
+{
+	"include"		"materials/NATURE/WATER_EPIC_SEWER.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_forest_final/c-1544_-1088_-144"
+		"$bottommaterial"		"maps/gm_forest_final/dev/dev_waterbeneath2_-1544_-1088_-144"
+		"Proxies"
+		{
+		}
+	}
+}

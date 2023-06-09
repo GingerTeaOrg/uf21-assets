@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/gm_forest_final/nature/water_epic_sewer_-1544_-1088_-144.vmt"
+	"insert"
+	{
+		"$waterdepth"		"115"
+	}
+}

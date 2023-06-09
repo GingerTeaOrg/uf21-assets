@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/gtav/nxg_pine_bark"
+	"$alphatest" 1
+//"$bumpmap" "models/gtav/nxg_pine_bark_nrm"
+$nocull 1
+
+$treeSway	"1"
+$treeSwayHeight	"250"
+$treeSwayStartHeight	".2"
+$treeSwayRadius	"450"
+$treeSwayStartRadius              "0.1"
+$treeSwaySpeed                    "0.45"
+$treeSwayStrength                 "0.7"
+$treeSwayScrumbleSpeed            "0.1"
+$treeSwayScrumbleStrength         "2"
+$treeSwayScrumbleFrequency        "4"
+$treeSwayFalloffExp               "2"
+
+$treeSwayStatic                   "1"
+}

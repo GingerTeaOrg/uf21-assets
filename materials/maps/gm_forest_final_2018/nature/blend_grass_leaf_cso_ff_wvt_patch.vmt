@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture"		"nature/cso_grass01"
+	"$surfaceprop"		"grass"
+	"%detailtype"		"cso_ff"
+}

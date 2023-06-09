@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"models/harz02/boulder_a2_c_df"
+	"$selfIllum"			0
+	"$translucent"			0
+	"$alphatest"			1
+	"$bumpMap"				"models/harz02/boulder_a2_c_nm"
+}

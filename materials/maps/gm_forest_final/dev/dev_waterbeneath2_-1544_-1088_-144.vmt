@@ -1,0 +1,10 @@
+"patch"
+{
+	"include"		"materials/dev/dev_waterbeneath2.vmt"
+	"replace"
+	{
+		"Proxies"
+		{
+		}
+	}
+}

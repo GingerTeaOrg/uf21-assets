@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "maps/common/genericfas_wood02"
+	"$normalmap" "maps/common/genericfas_wood02_normal"
+	"$surfaceprop" "Wood_Solid"
+}

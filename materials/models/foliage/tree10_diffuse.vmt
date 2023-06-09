@@ -1,0 +1,30 @@
+VertexLitGeneric
+{
+	$baseTexture "models\foliage/tree10_diffuse"
+//	"$bumpMap"   "models/foliage/tree01_normal"
+	$model 1
+	$FlashlightNoLambert 1
+	"%compilepassbullets" "1"
+	$vertexfog 1
+	
+    "360?$DISABLECSMLOOKUP" "1"
+    "SonyPS3?$DISABLECSMLOOKUP" "1"
+	"LowQualityCSM?$DISABLECSMLOOKUP" "1"
+
+	$treeSway			"1"	// height at which the effect is on fully (in world units)
+	$treeSwayHeight			"240"	// radius at which the effect is on fully (in world units)
+	$treeSwayStartHeight		".5"	// portion of height at which the effect starts to fade in (0-1)
+	$treeSwayRadius			"300"	// radius at which the effect is on fully (in world units)
+	$treeSwayStartRadius		"0.0"	// portion of radius at which the effect starts to fade in (0-1)
+	$treeSwaySpeed			"0.6"	// how quickly the tree sways (as a multiplier of time)
+	$treeSwayStrength		"0.6"	// how much the tree sways (as a multiplier of position)
+	$treeSwayScrumbleSpeed		"1.2"	// how quickly the leaves move (as a multiplier of time)
+	$treeSwayScrumbleStrength	"0.05"	// how much the leaves move( as a multiplier of position)
+	$treeSwayScrumbleFrequency	"2"	// spatial frequency of sine wave applied to leaves.  Typically high-ish (10-25)
+	$treeSwayFalloffExp		"20"	// falloff parameter for wave motion on branches/trunk, higher means core of tree is more stable
+	$treeSwayScrumbleFalloffExp	"32"	// falloff parameter for scrumble motion on leaves, higher means the core of the tree is more stable
+	$treeSwaySpeedHighWindMultiplier "0"  	// multiplier of movement speed at higher wind
+        $treeSwaySpeedLerpStart "1.0" 
+        $treeSwaySpeedLerpEnd "40.0" 
+
+}
