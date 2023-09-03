@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "props/pinetrees/pine_foliage_02"
+//	"$detail" "props/pinetrees/bark_detail"
+//	"$detailscale" 8
+	"$nocull" 1
+	"$surfaceprop" "wood"
+	"$alphatest" 1
+	"$model" 1
+}

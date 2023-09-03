@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture" "props/pinetrees/Tree_001a_card"
+	"$surfaceprop" "Wood_Solid"
+	"%keywords" "card"
+	"$alphatest" 1
+//	"$vertexcolor" 1
+	"$model" 1
+}

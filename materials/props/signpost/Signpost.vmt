@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "props/signpost/signpost"
+	"$surfaceprop" "wood"
+}

@@ -1,0 +1,25 @@
+"UnlitTwoTexture"
+{
+	"$basetexture" "props/effects/wake_decal"
+	"$texture2"    "props/effects/wake_decal2"
+	"$translucent" 1
+//	"$additive" 1
+	"$decal" 1
+//	"$ignorez" 1
+//	"$model" 1
+
+	"Proxies"
+	{
+
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$texture2transform"
+			"texturescrollrate" .3
+			"texturescrollangle" 180
+		}
+
+
+}
+
+}

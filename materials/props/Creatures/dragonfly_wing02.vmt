@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$translucent" 1
+	"$basetexture" "props/Creatures/dragonfly_wing01a"
+	"$nocull" 1
+	"$model" 1
+   "Proxies"
+   {
+      "AnimatedTexture"
+      {
+         "animatedtexturevar" "$basetexture"
+         "animatedtextureframenumvar" "$frame"
+         "animatedtextureframerate" 60
+      }
+   }
+}

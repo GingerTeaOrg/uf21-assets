@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "props/plants/treeend_001"
+
+	"$surfaceprop" "wood"
+
+	"$model" 1
+}

@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "props/pinetrees/pine_treeline_01"
+//	"$nocull" 1
+	"$surfaceprop" "wood"
+	"$translucent" 1
+}

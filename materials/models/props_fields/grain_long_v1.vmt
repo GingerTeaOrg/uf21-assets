@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\props_fields/grain_long_v1"
+	"$model" 1
+	"$alphatest" 1
+	"$nocull" 1
+}

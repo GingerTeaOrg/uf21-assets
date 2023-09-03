@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+//"UnlitGeneric"
+{
+	"$basetexture" "nature/roots_01"
+//	"$decal" 1
+//	"$alphatest" 1
+	"$translucent" 1
+	"$surfaceprop" "grass"
+	"$nocull" 1
+}

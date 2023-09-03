@@ -1,0 +1,16 @@
+"UnlitGeneric"
+{
+	"$abovewater" 1
+	"$baseTexture" "nature/water_volume"
+
+	"%compilewater" 1
+	"$surfaceprop" "water"
+ 	"$translucent" 1
+//	"$alphatest" 1
+	"$fogenable" 0
+	"$fogstart" 10
+	"$fogend" 100
+	"$fogcolor" "{123 135 145}"
+
+	"$bottommaterial" "nature/water_under"
+}

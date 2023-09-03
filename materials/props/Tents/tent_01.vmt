@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "props/Tents/tent_01"
+//	"$detail" "props/rocks/rock_detail1"
+//	"$detailscale" 4
+//	"$alphatest" 1
+	"$surfaceprop" "rubber"
+	"$selfillum" 1
+	"$model" 1
+}

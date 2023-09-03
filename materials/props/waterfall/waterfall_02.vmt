@@ -1,0 +1,21 @@
+"UnLitGeneric"
+{
+//	"$selfillum" 1
+	"$baseTexture" "props/waterfall/waterfall_02"
+	"$translucent" 1
+//	"$alphatest" 1
+//	"$additive" 1
+	"$model" 1
+   	"$nocull" 1
+
+	"Proxies"
+	{
+       "TextureScroll"
+		{
+		"texturescrollvar" "$basetexturetransform"
+		"texturescrollrate" .25 
+		"texturescrollangle" 0 
+		}
+	}
+
+}

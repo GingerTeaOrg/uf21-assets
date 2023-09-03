@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "props/Windmill/Windmill_01"
+	"$surfaceprop" "wood"
+	"$model" 1
+}

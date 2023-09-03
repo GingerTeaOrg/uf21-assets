@@ -1,0 +1,8 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "nature/plateau_cobblegrass001"
+	"$basetexture2" "nature/plateau_cobbledirt001"
+	"%keywords" "dod"
+	"%detailtype" "plateau_grass_med"
+	"$surfaceprop" "dirt"
+}

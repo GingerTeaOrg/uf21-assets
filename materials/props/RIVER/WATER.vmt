@@ -1,0 +1,32 @@
+"UnlitTwoTexture"
+{
+	"$basetexture" "nature/foam"
+	"$texture2"    "nature/water"
+//	"$translucent" 1
+//	"$additive" 1
+//	"$decal" 1
+//	"$ignorez" 1
+	"$model" 1
+
+	"Proxies"
+	{
+
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" .3
+			"texturescrollangle" 180
+		}
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$texture2transform"
+			"texturescrollrate" .5
+			"texturescrollangle" 180
+		}
+
+
+}
+
+}

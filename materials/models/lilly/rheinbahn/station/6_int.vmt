@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "models/lilly/rheinbahn/station/6_int"
+	"$translucent" 1
+}

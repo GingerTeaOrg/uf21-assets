@@ -1,0 +1,24 @@
+"UnlitTwoTexture"
+{
+	"$basetexture" "props/effects/lightshaft_01"
+	"$texture2"    "props/effects/lightshaftsmoke_01"
+	"$translucent" 1
+	"$additive" 1
+	"$model" 1
+	"$nocull" "1" 
+
+
+	"Proxies"
+	{
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$texture2transform"
+			"texturescrollrate" .1
+			"texturescrollangle" 45
+		}
+
+
+}
+
+}

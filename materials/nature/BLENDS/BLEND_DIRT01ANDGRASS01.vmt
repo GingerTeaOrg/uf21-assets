@@ -1,0 +1,14 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "nature/Dirt_001"
+	"$basetexture2" "nature/Grass_001"
+	"%tooltexture" "nature/Grass_001"
+	"%detailtype" "forest_foliage01"
+	"%detailtype2" "forest_foliage01"
+
+	"$selfillum" 1
+//	"$selfillumtint" "{0 80 255}"
+	"$surfaceprop" "dirt"
+	"$surfaceprop2" "grass"
+	"%keywords" "grass"
+}

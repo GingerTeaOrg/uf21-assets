@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "props/rocks/rock_white"
+	"$detail" "props/rocks/rock_detail4"
+	"$detailscale" 5
+	"$surfaceprop" "Boulder"
+//	"$selfillum" 1
+	"$model" 1
+}

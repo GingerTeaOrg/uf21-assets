@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+//"UnlitGeneric"
+{
+	"$basetexture" "nature/hanging_moss_01_decal"
+	"$decal" 1
+//	"$alphatest" 1
+	"$translucent" 1
+	"$surfaceprop" "concrete"
+}

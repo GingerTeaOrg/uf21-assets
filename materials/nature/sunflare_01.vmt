@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "nature/sunflare_01"
+	"$additive" 1
+	"$vertexColor" 1
+	"$ignorez" 1
+}

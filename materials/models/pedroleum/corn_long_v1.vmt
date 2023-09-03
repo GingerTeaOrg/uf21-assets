@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\pedroleum/corn_long_v1"
+	"$model" 1
+	"$alphatest" 1
+	"$nocull" 1
+}

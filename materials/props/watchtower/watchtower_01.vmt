@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "props/watchtower/watchtower_01"
+	"$surfaceprop" "wood"
+	"$model" 1
+}

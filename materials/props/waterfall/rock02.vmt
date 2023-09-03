@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "props/rocks/rock02"
+	"$detail" "props/rocks/rock_detail1"
+	"$detailscale" 9
+	"$surfaceprop" "rock"
+}

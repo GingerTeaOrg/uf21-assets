@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+//	"$translucent" 1
+	"$basetexture" "props/Creatures/dragonfly_01"
+//	"$nocull" 1
+//	"$alphatest" 1
+	"$vertexcolor" 1
+//	"$vertexalpha" 1
+	"$model" 1
+}

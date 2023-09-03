@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/lilly/uf/signage/bostrab_signs"
+	"$surfaceprop" "Metal"
+}

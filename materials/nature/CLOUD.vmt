@@ -1,0 +1,18 @@
+"Cloud"
+{
+	"$nofog" 1
+	"$basetexture" "nature/clouds_01"
+	"$cloudalphatexture" "nature/cloudalpha"
+	"$cloudscale" "[ 1.25 1.25 1.25]"
+	"$maskscale" "[ 0.5 0.5 0.5 ]"
+	"%tooltexture" "shadertest/cloudalpha"
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" 0.01
+			"texturescrollangle" 45
+		}
+	}
+}
