@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/uf/signals/lenses"
+	"$surfaceprop" "Glass"
+	"$alphatest" 1
+}
