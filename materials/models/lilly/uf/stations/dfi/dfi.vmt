@@ -1,4 +1,7 @@
 "VertexLitGeneric"
 {
 	"$basetexture" "models/lilly/uf/stations/dfi/dfi"
+	"$surfaceprop" "Metal"
+	"$surfaceprop2" "Glass"
+	"$alphatest" 1
 }

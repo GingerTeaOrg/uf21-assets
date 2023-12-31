@@ -1,5 +1,6 @@
 "VertexLitGeneric"
 {
 	"$basetexture" "models/lilly/uf/stations/jahnstrasse/glass"
-	"$translucent" 1
+	"$surfaceprop" "Glass"
+	"$alphatest" 1
 }
