@@ -1,0 +1,24 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "ADB-foliage-pack/Bushes/leaves02_tex"
+	"$alphatest" 1
+	"$model" 1
+	$nocull 1
+	$treeSway 1 
+	$treeSwayHeight 256 
+	$treeSwayStartHeight "0.1" 
+	$treeSwayRadius "2" 
+	$treeSwayStartRadius "0.25" 
+	$treeSwaySpeed "30" 
+	$treeSwayStrength "0.0005" 
+	$treeSwayScrumbleSpeed 0.5 
+	$treeSwayScrumbleStrength "2"
+	$treeSwayScrumbleFrequency 4 
+	$treeSwayFalloffExp 5 
+	$treeSwayScrumbleFalloffExp 7 
+	$treeSwaySpeedHighWindMultiplier 6 
+	$treeSwaySpeedLerpStart "2.0" 
+	$treeSwaySpeedLerpEnd "6.0" 
+	$LowQualityFlashlightShadows 1
+	$treeSwayStatic "1"
+}

@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "ADB-foliage-pack/Trees/bark01_tex"
+	"$normalmap" "ADB-foliage-pack/Trees/bark01_normal"
+	"$alphatest" 1
+}

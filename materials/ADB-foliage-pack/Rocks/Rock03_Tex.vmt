@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "ADB-foliage-pack/Rocks/Rock03_Tex"
+	"$normalmap" "ADB-foliage-pack/Rocks/Rock03_Tex_n"
+	"$surfaceprop" "Rock"
+	"%keywords" "rock"
+}
