@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/mplr/scenery/foliage/bricks_concrete"
+	"$normalmap" "models/lilly/mplr/scenery/foliage/bricks_concrete_n"
+	"$surfaceprop" "Concrete_block"
+}

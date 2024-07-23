@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/mplr/stations/lowfloor/glass"
+	"$surfaceprop" "Glass"
+	"$translucent" 1
+}

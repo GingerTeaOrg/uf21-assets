@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/mplr/scenery/buildings/departmentshop"
+	"$surfaceprop" "Concrete"
+	"$alphatest" 1
+}

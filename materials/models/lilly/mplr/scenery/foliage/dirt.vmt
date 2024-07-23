@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/mplr/scenery/foliage/dirt"
+	"$normalmap" "models/lilly/mplr/scenery/foliage/dirt_n"
+	"$surfaceprop" "Dirt"
+	"$surfaceprop2" "Gravel"
+}
