@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "wood/v_storewindow04b"
+	"$bumpmap" "wood/v_storewindow04_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[ .15 .15 .15 ]"
+	"$surfaceprop" "glass"
+	"$translucent" 1
+	"%keyword" "glass"
+}

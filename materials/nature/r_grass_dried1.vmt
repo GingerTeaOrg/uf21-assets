@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "nature/r_grass_dried1"
+	"$surfaceprop" "dirt"
+	"%keywords" "rnl"
+}

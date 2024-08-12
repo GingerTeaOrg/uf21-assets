@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures2\Wood\wood_111"
+	"$detail" "RealWorldTextures2\detail\dt_wood2"
+	"$detailblendfactor" ".3"
+	"$detailscale" "6"
+	"$surfaceprop" "wood"
+} //Realworld Textures Version 2 - Made by TopHATTwaffle - Please credit me if used! - Contact: www.tophattwaffle.com

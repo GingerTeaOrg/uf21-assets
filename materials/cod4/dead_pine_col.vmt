@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "cod4/dead_pine_col"
+	"$bumpmap" "cod4/dead_pine_nml"
+	"$halflambert" 1
+	"$nodecal" "1"
+	"$model" "1"
+
+}
+

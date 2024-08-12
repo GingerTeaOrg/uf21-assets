@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/props_farm/cider_applecrusher_01"
+	"$bumpmap" "models/props_farm/cider_applecrusher_01_normal"
+	"$surfaceprop" "concrete"
+	"$model" "1"
+}

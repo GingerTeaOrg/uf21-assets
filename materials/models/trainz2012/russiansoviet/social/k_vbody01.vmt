@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\trainz2012\russiansoviet\social\k_vbody01"
+	"$surfaceprop" "metal"
+}

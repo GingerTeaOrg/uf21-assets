@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures2\Wood\wood_95"
+	"$bumpmap" "RealWorldTextures2\Wood\wood_95_nrm"
+	"$surfaceprop" "wood"
+	"$detail" "RealWorldTextures2\detail\noise_detail_01"
+	"$detailblendfactor" ".6"
+	"$detailscale" "4"
+} //Realworld Textures Version 2 - Made by TopHATTwaffle - Please credit me if used! - Contact: www.tophattwaffle.com

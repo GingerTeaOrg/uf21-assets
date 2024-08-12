@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "wood/woodfloor01c_lfw"
+	"$bumpmap" "wood/woodfloor01a_normal_lfw"
+	"$surfaceprop" "wood"
+	"%keywords" "rnl"
+}

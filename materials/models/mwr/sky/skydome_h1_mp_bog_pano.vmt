@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+"$basetexture" "models/mwr/sky/skydome_h1_mp_bog_pano"
+"$nocull" "1"
+}

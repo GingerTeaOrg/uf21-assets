@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures2\Rock\ground\pebbles_path_05"
+	"$bumpmap" "RealWorldTextures2\Rock\ground\pebbles_path_05_nrm"
+	"$envmapmask" "RealWorldTextures2\Rock\ground\pebbles_path_05_spec"
+	"$surfaceprop" "rock"
+	"$envmap" "env_cubemap"
+} //Realworld Textures Version 2 - Made by TopHATTwaffle - Please credit me if used! - Contact: www.tophattwaffle.com

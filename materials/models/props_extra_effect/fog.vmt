@@ -1,0 +1,12 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models\props_extra_effect\fog"
+   // 	"$bumpmap" 	"models\kit\BLR\Unit_squad_nrm"
+    	
+
+   	"$halflambert" 1
+	"$translucent" "1"
+
+
+
+}

@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures2\Wall\Brick_wall_39"
+	"$bumpmap" "RealWorldTextures2\Wall\Brick_wall_39_nrm"
+	"$envmapmask" "RealWorldTextures2\Wall\Brick_wall_39_spec"
+	"$surfaceprop" "brick"
+	"$detail" "RealWorldTextures2\detail\noise_detail_01"
+	"$detailblendfactor" ".3"
+	"$detailscale" "4"
+	"$envmap" "env_cubemap"
+} //Realworld Textures Version 2 - Made by TopHATTwaffle - Please credit me if used! - Contact: www.tophattwaffle.com

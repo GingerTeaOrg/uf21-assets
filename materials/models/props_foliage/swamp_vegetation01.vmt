@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+$baseTexture "models\props_foliage/swamp_vegetation01"
+	"$bumpmap" "models\props_foliage\fakebumpAO"
+	"$phong" "1"
+//	"$translucent" "1"
+"%keywords" l4d2
+}

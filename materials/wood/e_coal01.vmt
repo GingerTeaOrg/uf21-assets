@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "wood/e_coal01"
+	"$bumpmap" "wood/e_coal01_normal"
+	"$normalmapalphaenvmapmask" "1"
+
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" "1"
+	"$envmapsaturation" "1"
+	"$envmaptint" "[ 0.3 0.5 1]"
+
+	"%keywords" "rnl_wood_coal"
+	"$surfaceprop" "wood"
+}

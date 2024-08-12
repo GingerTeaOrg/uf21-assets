@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "wood/e_signage_cherbourg"
+	"$surfaceprop" "wood"
+
+	"$detail" "detail/e_detail_dirt1"
+	"$detailscale" "2"
+	"$detailblendfactor" ".6"
+	"$detailblendmode" "0"
+
+	"%keyword" "rnl"
+}

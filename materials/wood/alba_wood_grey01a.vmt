@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "models/props_exterior/alba_wood_grey01"
+	"$surfaceprop" "wood"
+	"%keywords" "rnl"
+}

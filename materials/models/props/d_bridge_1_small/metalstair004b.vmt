@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "metal/metalstair004b"
+	"%compilepassbullets" 1
+	"$surfaceprop" "metalgrate"
+	"$translucent" 1
+	"%keywords" "c17industrial"
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	$basetexture models/DR_E94/isolator
+	$alphatest 1
+}

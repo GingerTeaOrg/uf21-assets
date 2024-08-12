@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	// original shader: basetimeslightmapalphablend
+	"$translucent" 1
+//	"$alphatest" 1
+	"$basetexture" "nature/treeline001a"
+	"$surfaceprop" "wood"
+	"%keywords" "wasteland"
+}

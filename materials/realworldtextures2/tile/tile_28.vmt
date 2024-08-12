@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures2\tile\Tile_28"
+	"$bumpmap" "RealWorldTextures2\tile\Tile_28_nrm"
+	"$envmapmask" "RealWorldTextures2\tile\Tile_24_25_26_27_28_SPEC"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.8 .8 .8]"
+	"$surfaceprop" "tile"
+} //Realworld Textures Version 2 - Made by TopHATTwaffle - Please credit me if used! - Contact: www.tophattwaffle.com

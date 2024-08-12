@@ -1,0 +1,12 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\props_foliage_terra/tree/Tree_SPR_04_PTTrunk_01_Diff"
+	"$bumpmap" "models\props_foliage_terra/tree/Tree_SPR_04_PTTrunk_01_Diff"
+
+	"$halflambert" 1
+	"$nodecal" "1"
+	"$model" "1"
+
+
+//	$phong 1
+}

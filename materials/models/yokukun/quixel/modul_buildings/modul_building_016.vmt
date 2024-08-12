@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+  "$baseTexture"    "models\yokukun\quixel\modul_buildings\modul_building_016"
+  "$bumpmap"   "models\yokukun\quixel\modul_buildings\modul_building_016_normal" 
+  "$phong" "1"
+  "$phongboost" "0.1"
+  "$phongfresnelranges" "[0.5 0.75 1.00]"
+  "$phongexponent"    "15"
+} 

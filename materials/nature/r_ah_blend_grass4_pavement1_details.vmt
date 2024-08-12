@@ -1,0 +1,17 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "nature/r_grass4"
+	"$baseTexture2" "nature/r_pavement1_highres"
+	"$blendmodulatetexture" "nature/ah_grass1_modulate"
+	"$surfaceprop" "grass"
+	"$surfaceprop2" "rock"
+	"%detailtype" "r_ah_thickgrass"
+	"%keywords" "rnl"
+	
+	"WorldVertexTransition_dx9"
+	{
+		"$detail" "detail/r_detail1"
+		"$detailscale" "0.15"
+		"$detailblendfactor" "0.3"
+	}	
+}

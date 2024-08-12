@@ -1,0 +1,8 @@
+
+LightmappedGeneric
+{
+	"$basetexture" "nature/rnl_background_aa_002"
+	"$surfaceprop" "concrete"
+	"$translucent" 1 
+
+}

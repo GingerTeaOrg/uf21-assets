@@ -1,0 +1,8 @@
+"WorldVertexTransition"
+{
+	"$baseTexture" "stone/alba_cobble1_highres"
+	"$baseTexture2" "nature\ah_dirt_ground_gravel001"
+	"$surfaceprop" "concrete"
+	"$surfaceprop2" "dirt"
+	"%keywords" "rnl"
+}

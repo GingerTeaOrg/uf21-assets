@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\props_amalur_foliage\13884d20"
+	
+	"$halflambert" "1"
+	"$alphatest" "1"
+		$allowalphatocoverage "1"
+	$alphatestreference "0.8"
+
+	$nocull 1
+}

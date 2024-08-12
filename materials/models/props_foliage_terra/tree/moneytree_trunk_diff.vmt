@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\props_foliage_terra/tree/MoneyTree_Diff"
+	"$bumpmap" "models\props_foliage_terra/tree/MoneyTree_norm"
+
+	"$halflambert" 1
+	"$nodecal" "1"
+	"$model" "1"
+
+}

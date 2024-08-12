@@ -1,0 +1,9 @@
+"WorldVertexTransition"
+{
+	"$baseTexture" "nature/r_dirt3"
+	"$baseTexture2" "nature/v_grassroad01a"
+	"$bumpmap" "nature/v_grassroad02_normal"
+	"$surfaceprop" "dirt"
+	"$surfaceprop2" "gravel"
+	"%keywords" "rnl"
+}

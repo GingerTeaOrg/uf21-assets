@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "nature/v_dirt03"
+	"$bumpmap" "nature/v_dirt03_normal"
+	"$surfaceprop" "dirt"
+	"%keywords" "rnl"
+}

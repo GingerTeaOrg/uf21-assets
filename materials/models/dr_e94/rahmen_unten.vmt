@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	$basetexture models/DR_E94/rahmen_unten
+	$alphatest 1
+}

@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\props_farm/unwrap"
+	"$nocull" 1
+	"$bumpmap" "models\props_farm/unwrap_normal"
+	"$model" 1
+	"$surfaceprop" "wood"
+}

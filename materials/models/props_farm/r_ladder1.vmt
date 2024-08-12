@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "Models/props_farm/r_ladder1"
+	"$surfaceprop" "wood"
+	"$model" 1
+}

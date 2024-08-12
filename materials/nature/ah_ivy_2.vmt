@@ -1,0 +1,8 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "nature/ah_ivy_2"
+	"$translucent" 1
+	"$surfaceprop" "paper"
+	"%keywords" "rnl_nature"
+
+}

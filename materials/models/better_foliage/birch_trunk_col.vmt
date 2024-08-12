@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+"$basetexture" "models\better_foliage\birch_trunk_col"
+"$bumpmap" "models\better_foliage\birch_trunk_nml"
+	"$surfaceprop" "wood"
+	"$nodecal" 1
+}

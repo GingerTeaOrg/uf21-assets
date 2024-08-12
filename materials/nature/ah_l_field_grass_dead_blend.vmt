@@ -1,0 +1,8 @@
+"WorldVertexTransition"
+{
+	"$baseTexture" "nature\r_field1_highres"
+	"$baseTexture2" "nature\ah_dirt1"
+	"$surfaceprop" "grass"
+	"%keywords" "ah_blend"
+	//"%detailtype" "ah_field_stubble001"
+}

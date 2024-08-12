@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/greengrass/grass_diffuse"
+	"$bumpmap" "models/greengrass/normal"
+	
+	"$halflambert"		1
+
+	"$phong"		1
+	"$phongexponentmap"	""
+	"$phongexponent" 	10
+    $phongfresnelranges               "[1.0 1.0 1.0]"
+}

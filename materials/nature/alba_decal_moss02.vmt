@@ -1,0 +1,8 @@
+
+LightmappedGeneric
+{
+	"$basetexture" "nature/alba_decal_moss02"
+"$decalscale" 0.20 
+"$translucent" 1 
+"$decal" 1 
+}

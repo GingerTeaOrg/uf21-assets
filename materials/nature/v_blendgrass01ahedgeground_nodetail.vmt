@@ -1,0 +1,10 @@
+"WorldVertexTransition"
+{
+	"$baseTexture" "nature/v_hedgerowground01"
+	"$baseTexture2" "nature/rd_grass01_low"
+	"$blendmodulatetexture" "nature/rd_dirtgrass01blend"
+	"$surfaceprop" "dirt"
+	"$surfaceprop2" "grass"
+	"$bumpmap" "nature/v_grass01a_normal"
+	"%keywords" "rnl"
+}

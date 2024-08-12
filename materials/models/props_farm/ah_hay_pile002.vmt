@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/props_farm/ah_hay_pile001"
+	"$surfaceprop" "foliage"
+	
+
+	"$model" "1"
+}

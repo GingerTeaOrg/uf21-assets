@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "cod4/tree_chechnya_log_col"
+	"$bumpmap" "cod4/tree_chechnya_log_nml"
+	"$halflambert" 1
+	"$nodecal" "1"
+	"$model" "1"
+
+}
+

@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models\better_foliage\oak_tree01_branches_d"
+"$bumpmap" "models\better_foliage\oak_tree01_branches_n"
+	"$alphatest" 1
+	"$model" 1
+	"$nocull" 1
+	"$AlphaTestReference" "0.5"
+	"$AllowAlphaToCoverage" "1"
+}
+

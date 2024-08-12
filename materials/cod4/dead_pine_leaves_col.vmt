@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "cod4/dead_pine_leaves_col"
+	"$halflambert" 1
+	"$nodecal" "1"
+	"$model" "1"
+
+	"$alphatest" 1
+		"$nocull" "1"
+}
+

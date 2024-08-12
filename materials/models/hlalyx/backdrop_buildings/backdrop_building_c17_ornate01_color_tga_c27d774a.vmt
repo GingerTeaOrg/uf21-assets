@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+    $basetexture "models\hlalyx\backdrop_buildings\backdrop_building_c17_ornate01_color_tga_c27d774a"
+    $bumpmap "models\hlalyx\backdrop_buildings\backdrop_building_c17_ornate01_normal_tga_96a4b362"
+    $surfaceprop "concrete"
+}

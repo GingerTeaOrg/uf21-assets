@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "cod4/tree_desertpalm_col"
+	"$bumpmap" "cod4/tree_desertpalm_normal"
+	"$halflambert" 1
+	"$nodecal" "1"
+	"$model" "1"
+
+}
+

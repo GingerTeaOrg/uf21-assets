@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\props_fallout_grass\nvseagrass01"
+
+	"$alphatest" "1"
+
+	$nocull 1
+		$allowalphatocoverage "1"
+	$alphatestreference "0.8"
+}

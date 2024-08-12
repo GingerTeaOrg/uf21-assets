@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "nature/r_mud2"
+	"$surfaceprop" "mud"
+	"%keywords" "rnl"
+}

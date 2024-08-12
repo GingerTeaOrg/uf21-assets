@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+            $basetexture "models\albuildings\builds3.vtf"
+            $bumpmap    "models\albuildings\builds3n.vtf"
+}

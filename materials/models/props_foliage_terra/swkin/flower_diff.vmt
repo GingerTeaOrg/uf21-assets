@@ -1,0 +1,24 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\props_foliage_terra/swkin/flower_diff"
+	"$bumpmap" "models\props_foliage_terra/swkin/flower_bump"
+
+	"$halflambert" 1
+	"$nodecal" "1"
+	"$model" "1"
+
+
+	"$normalmapalphaenvmapmask" 1
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ 0.1 0.1 0.1 ]"
+	"$envmapsaturation" ".01"
+	"$envmapcontrast" "0.1"
+ //	"$envmapFresnel" "1"
+
+	"$phong" "1"
+	"$phongexponenttexture" "models\props_foliage_terra/swkin/armor_exp"
+//	"$phongexponent" 30
+	"$phongboost" "0.2"
+	"$phongfresnelranges"	"[ .3 1.2 8]"
+	"$PhongAlbedoTint" "1"
+}

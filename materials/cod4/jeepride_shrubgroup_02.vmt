@@ -1,0 +1,13 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "cod4/jeepride_shrubgroup_02"
+	"$halflambert" 1
+	"$nodecal" "1"
+	"$model" "1"
+
+	"$alphatest" 1
+	"$alphatestreference" "0.2"
+	"$allowalphatocoverage" "1"
+		"$nocull" "1"
+}
+

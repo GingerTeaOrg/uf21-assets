@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+"$basetexture" "models/mwr/sky/sky_h1_village_assault_pano"
+"$nocull" "1"
+}

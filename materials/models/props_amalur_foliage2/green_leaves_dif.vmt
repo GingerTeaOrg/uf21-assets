@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\props_amalur_foliage2\green_leaves_dif"
+
+	"$halflambert" "1"
+	"$alphatest" "1"
+		$allowalphatocoverage "1"
+	$alphatestreference "0.8"
+//	"$detail" "models\props_plants_extras\1\1_emi"
+//	$detailscale 1
+//	$detailblendfactor "3"
+//	$detailblendmode 5
+	$nocull 1
+}

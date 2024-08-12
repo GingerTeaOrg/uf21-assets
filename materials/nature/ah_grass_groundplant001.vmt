@@ -1,0 +1,10 @@
+//basic place holder for grass texture feel free to modify 
+"WorldVertexTransition"
+{
+	"$baseTexture" "nature/ah_grass_1"
+	"$baseTexture2" "nature\ah_grass_groundplant001"
+	"$surfaceprop" "grass"
+	"%detailtype" "ah_tall_thick_grass1"
+	"%keywords" "rnl_blend"
+	//"%detailtype" "ah_tall_thick_grass1"
+}

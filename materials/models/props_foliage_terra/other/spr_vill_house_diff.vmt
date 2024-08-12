@@ -1,0 +1,14 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\props_foliage_terra/other/SPR_Vill_House_Diff"
+	"$bumpmap" "models\props_foliage_terra/other/SPR_Vill_House_Diff"
+
+	"$halflambert" 1
+	"$nodecal" "1"
+	"$model" "1"
+
+
+
+
+	$phong 1
+}

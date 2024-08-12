@@ -1,0 +1,16 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "storefront_template/storefront_template001a"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "storefront_template/storefront_template001a_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .4 .4 .4 ]"
+
+	"$detail" "detail\metal_detail_01"
+	"$detailscale" "7.283"
+	"$detailblendfactor" .65
+	"$detailblendmode" "0"
+}

@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "props/signbillboard005a"
+	"$surfaceprop" "metal"
+	"%keywords" "c17"
+	"$alphatest" 1
+	"$nomip" 1
+}

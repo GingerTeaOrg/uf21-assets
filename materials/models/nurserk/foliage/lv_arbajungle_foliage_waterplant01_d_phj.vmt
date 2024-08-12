@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+
+	"$baseTexture" 		"models/Nurserk/foliage/LV_Arbajungle_Foliage_Waterplant01_D_PHJ"
+	"$bumpmap" 		"models/Nurserk/foliage/LV_Arbajungle_Foliage_Waterplant01_D_PHJ_n"
+	"$surfaceprop"	"foliage"
+	"$alphatest" 1
+	"$nodecal" 1
+	"$nocull" 0
+	"$allowalphatocoverage" "1"
+	"$alphatestreference" "0.5"
+	"$halflambert" 1
+	"$phong" "1"
+	"$phongexponent" "6"
+	"$phongboost" "0.02"	
+	"$phongfresnelranges"	"[1 7 15]"
+	$ambientocclusion "0"
+}

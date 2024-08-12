@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+               "$basetexture" "models/AlBuildings/backdrop_building_c17_low01_color2_tga_b4ed120e.vtf"
+               //"$translucent" 1	
+               "$bumpmap"     "models/AlBuildings/backdrop_building_c17_low01_normal_tga_7e273384.vtf"	
+}
+
+
+

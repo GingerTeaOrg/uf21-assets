@@ -1,0 +1,8 @@
+"WorldVertexTransition"
+{
+	"$baseTexture" "nature\ah_grass_2"
+	"$baseTexture2" "nature/ah_grass_dead_001"
+	"$surfaceprop" "grass"
+	"$surfaceprop2" "grass"
+	"%keywords" "rnl"
+}

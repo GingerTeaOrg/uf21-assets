@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "building_template/building_trainstation_truss_template001g"
+	"$surfaceprop" "metal"
+	"$alphatest" 1
+}

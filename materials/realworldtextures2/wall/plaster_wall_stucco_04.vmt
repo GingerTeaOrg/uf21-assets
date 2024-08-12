@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures2\Wall\plaster_wall_stucco_04"
+	"$surfaceprop" "plaster"
+	"$detail" "RealWorldTextures2\detail\dt_plaster1"
+	"$detailblendfactor" ".3"
+	"$detailscale" "5"
+} //Realworld Textures Version 2 - Made by TopHATTwaffle - Please credit me if used! - Contact: www.tophattwaffle.com

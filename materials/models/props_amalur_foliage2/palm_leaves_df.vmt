@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\props_amalur_foliage2\palm_leaves_Df"
+	"$bumpmap" "models\props_amalur_foliage2\palm_leaf_nrm"
+	"$phong" "1"
+//	"$phongexponenttexture" "models\props_plants_extras\1\1_spc"
+	"$phongboost" "3"	
+	"$phongfresnelranges"	"[.1 0.2 1]"
+	"$halflambert" "1"
+	"$translucent" "1"
+		$allowalphatocoverage "1"
+	$alphatestreference "0.8"
+//	"$detail" "models\props_plants_extras\1\1_emi"
+//	$detailscale 1
+//	$detailblendfactor "3"
+//	$detailblendmode 5
+	$nocull 1
+}

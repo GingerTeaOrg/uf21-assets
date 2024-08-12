@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+"$basetexture" "models/mwr/blood/bf1_blood_pool_col"
+"$bumpmap" "models/mwr/blood/bf1_blood_pool_nml"
+"$nocull" 1
+"$halflambert" 1
+"$alphatest" 1
+"$allowalphatocoverage" "1"
+"$alphatestreference" 0.2
+"$phong" "1"
+"$phongexponent" "30"
+"$phongboost" "0.5"
+"$phongfresnelranges"	"[0.4 0.9 2.6]"
+"$phongalbedotint" "1"
+"$envmap" "models\mwr/shared\killy"
+"$normalmapalphaenvmapmask" "1"
+"$envmaptint" "[0.1 0.1 0.1]"
+}

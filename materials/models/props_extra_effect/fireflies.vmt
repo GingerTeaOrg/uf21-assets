@@ -1,0 +1,17 @@
+"unlitgeneric"
+{
+	"$basetexture" "models\props_extra_effect\fireflies"
+   // 	"$bumpmap" 	"models\kit\BLR\Unit_squad_nrm"
+    	
+
+
+	"$translucent" "1"
+
+
+$color2 "[2 2 2]"
+$detail "models\props_extra_effect\fireflies"
+$detailscale 1
+$detailblendfactor "3"
+$detailblendmode 5
+
+}

@@ -1,0 +1,8 @@
+"WorldVertexTransition"
+{
+	"$baseTexture" "stone/alba_cobble1"
+	"$baseTexture2" "nature/alba_snow_01"
+	"$surfaceprop" "concrete"
+	"$surfaceprop2" "snow"
+	"%keywords" "rnl"
+}

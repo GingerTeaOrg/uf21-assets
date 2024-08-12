@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "cod4/tree_grey_oak_col"
+	"$bumpmap" "cod4/tree_grey_oak_nml"
+	"$halflambert" 1
+	"$nodecal" "1"
+	"$model" "1"
+
+}
+

@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures2\Rock\ground\pebbles_01"
+	"$surfaceprop" "rock"
+	"$bumpmap" "RealWorldTextures2\Rock\ground\pebbles_01_nrm"
+	"$detail" "RealWorldTextures2\detail\dt_stone3"
+	"$detailblendfactor" ".7"
+	"$detailscale" "7"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.3 .3 .3]"
+} //Realworld Textures Version 2 - Made by TopHATTwaffle - Please credit me if used! - Contact: www.tophattwaffle.com

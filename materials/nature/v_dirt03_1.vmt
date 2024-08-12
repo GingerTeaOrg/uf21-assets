@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "nature/v_dirt03_1"
+	"$surfaceprop" "dirt"
+	"%keywords" "rnl"
+	"$translucent" 1
+	"$decal" 1
+	"$decalscale" 0.25
+}

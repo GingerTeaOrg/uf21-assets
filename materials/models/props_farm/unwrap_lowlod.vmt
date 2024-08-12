@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\props_farm/unwrap_lowlod"
+	"$model" 1
+	"$surfaceprop" "metal"
+}

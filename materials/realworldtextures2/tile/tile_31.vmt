@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures2\tile\Tile_31"
+	"$detail" "RealWorldTextures2\detail\noise_detail_01"
+	"$detailblendfactor" ".5"
+	"$detailscale" "4"
+	"$surfaceprop" "tile"
+} //Realworld Textures Version 2 - Made by TopHATTwaffle - Please credit me if used! - Contact: www.tophattwaffle.com

@@ -1,0 +1,7 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "wood/ah_wooden_truss_roof001"
+	"%keywords" "rnl_wood"
+	"$surfaceprop" "wood"
+	//"$bumpmap" "wood/ah_wood_generic001_normal"
+}

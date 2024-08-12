@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "nature/v_hedgerowground01"
+	"bumpmap" "nature/v_hedgerowground01_normal"
+	"$surfaceprop" "hedgerow"
+	"%keywords" "rnl"
+}

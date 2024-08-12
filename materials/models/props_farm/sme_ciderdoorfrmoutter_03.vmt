@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\props_farm/sme_ciderdoorfrmoutter_03"
+	"$normal" "models\props_farm/sme_ciderdoorfrmoutter_03_normal"
+	"$model" 1 
+}

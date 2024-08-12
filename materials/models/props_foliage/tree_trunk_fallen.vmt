@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+$baseTexture "models\props_foliage/tree_trunk_fallen"
+$bumpmap "models\props_foliage\fakebumpAO"
+$phong 1
+}

@@ -1,0 +1,21 @@
+"patch"
+{
+	"include" "materials/models/Nurserk/foliage/vines_swaying01.vmt"
+	"insert"
+	{
+	"$basetexture"	"models/Nurserk/foliage/vine_halfdry01"
+	"$bumpmap" "models/Nurserk/foliage/vine_halfdry01_n"
+	"$surfaceprop"	"foliage"
+	"$alphatest" 1
+	"$nodecal" 1
+	"$nocull" 1
+	"$allowalphatocoverage" "1"
+	"$alphatestreference" "0.5"
+	"$halflambert" 1
+	"$phong" "1"
+	"$phongexponent" "6"
+	"$phongboost" "0.02"	
+	"$phongfresnelranges"	"[1 7 15]"
+	$ambientocclusion "0"
+	}
+}

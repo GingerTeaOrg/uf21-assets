@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "wood/S_Cottage_Wall004b_alpha"
+	"$bumpmap" "wood/S_Cottage_Wall004b_normal"
+	"$surfaceprop" "wood"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"%keywords" "rnl"
+}

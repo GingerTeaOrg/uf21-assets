@@ -1,0 +1,16 @@
+// envmaptint_fix
+"vertexlitgeneric"
+{
+	"$basetexture" "tile/tilefloor009a"
+	"$surfaceprop" "tile"
+	"$bumpmap" "tile/tilefloor009a_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .55 .55 .55 ]"
+	"vertexlitgeneric_dx8"
+	{
+		"$envmaptint" "[.45 .45 .45]"
+	}
+}

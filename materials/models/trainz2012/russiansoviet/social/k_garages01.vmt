@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\trainz2012\russiansoviet\social\k_garages01"
+	"$surfaceprop" "concrete"
+}

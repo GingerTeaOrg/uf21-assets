@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "nature/v_grass01a"
+	"$bumpmap" "nature/v_grass01a_normal"
+	"$surfaceprop" "grass"
+	"%keywords" "rnl"
+	"%detailtype" "v_grass01a"
+}

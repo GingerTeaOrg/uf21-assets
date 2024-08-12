@@ -1,0 +1,8 @@
+
+LightmappedGeneric
+{
+	"$basetexture" "nature/alba_background8"
+	"$surfaceprop" "concrete"
+	"$translucent" 1 
+
+}

@@ -1,0 +1,6 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "nature/ah_dirt1"
+	"$surfaceprop" "gravel"
+	"%keywords" "rnl"
+}

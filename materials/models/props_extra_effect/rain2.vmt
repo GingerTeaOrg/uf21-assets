@@ -1,0 +1,12 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models\props_extra_effect\rain2"
+   // 	"$bumpmap" 	"models\kit\BLR\Unit_squad_nrm"
+    	
+
+   	"$halflambert" 1
+	"$additive" "1"
+
+
+
+}

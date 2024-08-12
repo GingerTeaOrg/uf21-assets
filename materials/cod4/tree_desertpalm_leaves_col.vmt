@@ -1,0 +1,13 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "cod4/tree_desertpalm_leaves_col"
+	"$halflambert" 1
+	"$nodecal" "1"
+	"$model" "1"
+
+	"$alphatest" 1
+	"$alphatestreference" "0.2"
+	"$allowalphatocoverage" "1"
+		"$nocull" "1"
+}
+
