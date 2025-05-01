@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/mplr/scenery/buildings/cork"
+	"$envmapmask" "models/lilly/mplr/scenery/buildings/cork_s"
+	"$normalmap" "models/lilly/mplr/scenery/buildings/cork_n"
+	"$surfaceprop" "Concrete_block"
+}

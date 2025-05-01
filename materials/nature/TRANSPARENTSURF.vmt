@@ -1,7 +1,0 @@
-"LightmappedGeneric"
-{
-	"$abovewater" 1
-	"$baseTexture" "nature/water_volume"
-	"$surfaceprop" "no_decal"
- 	"$translucent" 1
-}

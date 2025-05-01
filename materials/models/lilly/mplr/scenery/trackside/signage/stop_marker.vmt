@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/mplr/scenery/trackside/signage/stop_marker"
+	"$normalmap" "models/lilly/mplr/scenery/trackside/signage/stop_marker_n"
+	"$envmapmask" "models/lilly/mplr/scenery/trackside/signage/stop_marker_env"
+	"$surfaceprop" "Metal"
+}

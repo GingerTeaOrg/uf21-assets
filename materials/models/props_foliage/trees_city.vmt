@@ -1,7 +1,0 @@
-VertexlitGeneric
-{
-$baseTexture "models\props_foliage\Trees_city"
-	"$bumpmap" "models\props_foliage\fakebumpAO"
-	"$phong" "1"
-//	"$translucent" "1"
-}

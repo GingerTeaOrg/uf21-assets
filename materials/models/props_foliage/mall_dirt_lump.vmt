@@ -1,8 +1,0 @@
-VertexlitGeneric
-{
-$baseTexture "models\props_foliage\Mall_dirt_lump"
-	"$bumpmap" "models\props_foliage\fakebumpAO"
-	"$phong" "1"
-//	"$translucent" "1"
-"%keywords" l4d2
-}

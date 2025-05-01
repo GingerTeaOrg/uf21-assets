@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/mplr/scenery/buildings/contemporary"
+	"$envmapmask" "models/lilly/mplr/scenery/buildings/contemporary_s"
+	"$normalmap" "models/lilly/mplr/scenery/buildings/contemporary_n"
+
+}

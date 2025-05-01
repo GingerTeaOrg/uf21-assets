@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/mplr/scenery/trackside/signage/speed_30_rotten"
+	"$normalmap" "models/lilly/mplr/scenery/trackside/signage/speed_30_rotten_n"
+	"$surfaceprop" "Metal"
+}

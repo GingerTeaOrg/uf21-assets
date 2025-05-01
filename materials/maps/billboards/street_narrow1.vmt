@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "maps/billboards/street_narrow1"
+	"$alphatest" 1
+}

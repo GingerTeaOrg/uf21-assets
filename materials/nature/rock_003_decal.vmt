@@ -1,9 +1,0 @@
-//"LightmappedGeneric"
-"UnlitGeneric"
-{
-	"$basetexture" "nature/Rock_003_decal"
-	"$decal" 1
-//	"$alphatest" 1
-	"$translucent" 1
-	"$surfaceprop" "concrete"
-}

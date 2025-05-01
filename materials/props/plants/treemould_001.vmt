@@ -1,8 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "props/plants/treemould_001"
-
-	"$surfaceprop" "grass"
-
-	"$model" 1
-}

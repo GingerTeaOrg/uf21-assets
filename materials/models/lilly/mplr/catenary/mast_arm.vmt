@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/mplr/catenary/mast_arm"
+	"$surfaceprop" "Metal"
+}

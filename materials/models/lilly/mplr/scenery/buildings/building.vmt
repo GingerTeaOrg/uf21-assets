@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/mplr/scenery/buildings/building"
+	"$normalmap" "models/lilly/mplr/scenery/buildings/building_n"
+	"$surfaceprop" "Concrete"
+}

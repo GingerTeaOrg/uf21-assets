@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/uf/ballast"
+	$normalmap	models/lilly/uf/ballast_n
+	$envmapmask models/lilly/uf/ballast_env
+}

@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/bushes/longround/diffuse"
-	"$bumpmap" "models/bushes/longround/normal"
-	"$alphatest" 1
-	"$alphatestreference" "0.40"
-}

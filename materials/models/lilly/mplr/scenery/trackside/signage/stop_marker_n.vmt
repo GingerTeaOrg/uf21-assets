@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "models/lilly/mplr/scenery/trackside/signage/stop_marker_n"
+	"$translucent" 1
+}

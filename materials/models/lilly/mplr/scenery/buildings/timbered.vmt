@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/mplr/scenery/buildings/timbered"
+	"$envmapmask" "models/lilly/mplr/scenery/buildings/timbered_s"
+	"$normalmap" "models/lilly/mplr/scenery/buildings/timbered_n"
+	"$surfaceprop" "Wood"
+}

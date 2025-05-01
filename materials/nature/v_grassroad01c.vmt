@@ -1,7 +1,0 @@
-"LightmappedGeneric"
-{
-	"$baseTexture" "nature/v_grassroad01c"
-	"$bumpmap" "nature/v_grassroad01c_normal"
-	"$surfaceprop" "gravel"
-	"%keywords" "rnl"
-}

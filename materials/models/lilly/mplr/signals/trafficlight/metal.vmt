@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/mplr/signals/trafficlight/metal"
+	"$surfaceprop" "Metal"
+}

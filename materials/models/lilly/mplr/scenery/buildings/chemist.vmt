@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/mplr/scenery/buildings/chemist"
+	"$envmapmask" "models/lilly/mplr/scenery/buildings/chemist_s"
+	"$normalmap" "models/lilly/mplr/scenery/buildings/chemist_n"
+	"$surfaceprop" "Concrete_block"
+}

@@ -1,6 +1,0 @@
-"vertexlitgeneric"
-{
-	"$basetexture" "models/props_foliage/rd_bark01"
-	"$surfaceprop" "wood"
-	"$model" 1
-}

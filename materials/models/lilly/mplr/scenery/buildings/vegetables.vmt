@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/mplr/scenery/buildings/vegetables"
+	"$normalmap" "models/lilly/mplr/scenery/buildings/vegetables_n"
+	"$surfaceprop" "Grass"
+	"$translucent" 1
+}

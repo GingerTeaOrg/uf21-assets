@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/bushes/smallround/diffuse"
-	"$bumpmap" "models/bushes/smallround/normal"
-	"$translucent" 1
-}

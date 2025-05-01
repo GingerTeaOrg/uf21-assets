@@ -1,6 +1,0 @@
-"unlitGeneric"
-{
-	"$baseTexture" "skybox/sky_forestdn"
-	"$nofog" 1
-	$ignorez 1
-}

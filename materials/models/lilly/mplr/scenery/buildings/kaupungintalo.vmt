@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/mplr/scenery/buildings/kaupungintalo_d"
+	"$envmapmask" "models/lilly/mplr/scenery/buildings/lowrisemodern_s"
+	"$normalmap" "models/lilly/mplr/scenery/buildings/lowrisemodern_n"
+	"$surfaceprop" "Concrete"
+}

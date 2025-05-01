@@ -1,9 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "coldfusion/signs/giveway"
-	"$surfaceprop" "Metal"
-	"$surfaceprop2" "MetalPanel"
-	"$nodecal" 1
-	"$vertexcolor" 1
-	"$model" 1
-}

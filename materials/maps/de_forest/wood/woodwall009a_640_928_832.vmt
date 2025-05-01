@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/WOOD/WOODWALL009A.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/de_forest/c640_928_832"
-	}
-}

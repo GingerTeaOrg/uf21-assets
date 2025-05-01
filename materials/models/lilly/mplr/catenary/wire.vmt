@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/mplr/catenary/wire"
+	"$envmapmask" "models/lilly/mplr/catenary/wire_n"
+	"$normalmap" "models/lilly/mplr/catenary/wire_n"
+	"$surfaceprop" "Metal"
+}

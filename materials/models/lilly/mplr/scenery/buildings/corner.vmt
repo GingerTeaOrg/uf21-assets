@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/mplr/scenery/buildings/corner"
+	"$envmapmask" "models/lilly/mplr/scenery/buildings/corner_s"
+	"$surfaceprop" "Wood_Panel"
+}

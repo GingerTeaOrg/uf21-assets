@@ -1,9 +1,0 @@
-ENT.Type = "anim"
-ENT.PrintName = "Citaro 2 Doors"
-ENT.Author = "LillyWho & alTerr"
-ENT.Contact = ""
-ENT.Purpose = ""
-ENT.Instructions = ""
-ENT.Category = "Metrostroi: Project Light Rail"
-ENT.Spawnable = false
-ENT.AdminOnly = true

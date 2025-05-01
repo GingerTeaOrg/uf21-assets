@@ -1,7 +1,0 @@
-"vertexlitgeneric"
-{
-	"$baseTexture" "Models/props_farm/r_chickencoop"
-	"$alphatest" 1
-	"$surfaceprop" "wood"
-	"$model" 1
-}

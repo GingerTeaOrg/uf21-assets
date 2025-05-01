@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "maps/ballast"
+	$normalmap	maps/ballast_n
+	$envmapmask maps/ballast_env
+}

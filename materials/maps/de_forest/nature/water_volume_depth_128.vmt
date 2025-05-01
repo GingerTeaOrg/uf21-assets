@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/nature/water_volume.vmt"
-	"insert"
-	{
-		"$waterdepth"		"128"
-	}
-}

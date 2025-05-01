@@ -1,5 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/greengrass/ground_diffuse"
-	"$bumpmap" "models/greengrass/ground_normal"
-}

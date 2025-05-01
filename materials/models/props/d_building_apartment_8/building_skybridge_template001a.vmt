@@ -1,6 +1,0 @@
-"vertexlitgeneric"
-{
-	"$basetexture" "building_template/building_skybridge_template001a"
-	"$surfaceprop" "concrete"
-	"$translucent" 1
-}

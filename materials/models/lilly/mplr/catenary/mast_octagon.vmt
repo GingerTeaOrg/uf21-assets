@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/mplr/catenary/mast_octagon"
+	"$normalmap" "models/lilly/mplr/catenary/mast_octagon_n"
+	"$surfaceprop" "Metal"
+}

@@ -1,7 +1,0 @@
-"LightmappedGeneric"
-{
-	"$baseTexture" "wood/v_pillar"
-	"$bumpamp" "wood/v_pillar_normal"
-	"$surfaceprop" "wood"
-	"%keyword" "rnl"
-}
