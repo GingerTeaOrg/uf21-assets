@@ -2,5 +2,5 @@
 {
 	"$basetexture" "models/lilly/uf/scenery/citaro_2d/01frankfurt"
 	"$surfaceprop" "Metal"
-	"$translucent" 1
+	
 }

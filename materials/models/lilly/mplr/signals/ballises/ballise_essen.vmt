@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/mplr/signals/ballises/ballise_essen"
+	"$envmapmask" "models/lilly/mplr/signals/ballises/ballise_essen_env"
+	"$normalmap" "models/lilly/mplr/signals/ballises/ballise_essen_n"
+	"$surfaceprop" "Plastic"
+}

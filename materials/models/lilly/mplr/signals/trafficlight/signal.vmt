@@ -1,4 +1,5 @@
 "VertexLitGeneric"
 {
 	"$basetexture" "models/lilly/mplr/signals/trafficlight/signal"
+	$normalmap "models/lilly/mplr/signals/trafficlight/signal_n"
 }

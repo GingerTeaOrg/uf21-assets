@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/mplr/scenery/trackside/BR111"
+	"$surfaceprop" "Metal"
+	"$alphatest" 1
+}

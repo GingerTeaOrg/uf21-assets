@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "models/lilly/uf/track/sgauge/tram/asphalt"
+	"$bumpmap" "models/lilly/uf/track/sgauge/tram/asphalt-bump"
+	"$surfaceprop" "Concrete"
+	"$surfaceprop2" "Boulder"
+}

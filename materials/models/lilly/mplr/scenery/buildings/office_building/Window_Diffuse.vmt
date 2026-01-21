@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/mplr/scenery/buildings/VertexLitGeneric/Window_Diffuse"
+	"$translucent" 1
+}

@@ -1,7 +1,7 @@
 "VertexLitGeneric"
 {
 	"$basetexture" "models/lilly/mplr/signals/trafficlight/lens_middle"
-	
+	$alphatest 1
 	"$selfillum" "1"
     "$selfillumtint" "[1 1 1]"
     "$selfillummask" "models/lilly/mplr/signals/trafficlight/lens_middle_mask"

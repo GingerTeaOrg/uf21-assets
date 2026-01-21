@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "maps/forrest_ground_01_diff_4k"
+	"$bumpmap" "maps/forrest_ground_01_nor_gl_4k"
+	"$envmapmask" "maps/forrest_ground_01_disp_4k"
+	"$surfaceprop" "Grass"
+	"$surfaceprop2" "Foliage"
+}

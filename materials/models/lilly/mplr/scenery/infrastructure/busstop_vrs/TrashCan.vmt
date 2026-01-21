@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/mplr/scenery/infrastructure/busstop_vrs/TrashCan_Base"
+	"$normalmap" "models/lilly/mplr/scenery/infrastructure/busstop_vrs/TrashCan_Normal"
+	"$surfaceprop" "Metal"
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/mplr/scenery/buildings/VertexLitGeneric/Billboard/Diffuse"
+	"$translucent" 1
+}

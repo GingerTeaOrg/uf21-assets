@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/uf/structures/depot/schwanheim/timber"
+	"$envmapmask" "models/lilly/uf/structures/depot/schwanheim/timber"
+	"$surfaceprop" "Wood_Dense"
+}

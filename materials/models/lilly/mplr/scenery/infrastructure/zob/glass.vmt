@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/mplr/scenery/infrastructure/zob/glass"
+	$translucent 1
+	
+}

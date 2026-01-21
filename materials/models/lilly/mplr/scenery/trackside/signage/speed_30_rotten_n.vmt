@@ -1,5 +1,5 @@
-"LightmappedGeneric"
+"VertexLitGeneric"
 {
 	"$basetexture" "models/lilly/mplr/scenery/trackside/signage/speed_30_rotten_n"
-	"$translucent" 1
+	
 }

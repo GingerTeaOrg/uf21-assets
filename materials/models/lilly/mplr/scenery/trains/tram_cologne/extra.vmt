@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/mplr/scenery/trains/tram_cologne/extra_albedo"
+	"$envmapmask" "models/lilly/mplr/scenery/trains/tram_cologne/extra_metallic"
+	"$normalmap" "models/lilly/mplr/scenery/trains/tram_cologne/extra_normal"
+	"$surfaceprop" "Metal"
+}

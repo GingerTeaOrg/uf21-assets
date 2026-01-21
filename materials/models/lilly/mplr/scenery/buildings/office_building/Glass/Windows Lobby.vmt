@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/mplr/scenery/buildings/VertexLitGeneric/Glass/Windows Lobby"
+	"$translucent" 1
+}

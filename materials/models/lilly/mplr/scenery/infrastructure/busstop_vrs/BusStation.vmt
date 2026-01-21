@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/mplr/scenery/infrastructure/busstop_vrs/BusStation_Base"
+	"$normalmap" "models/lilly/mplr/scenery/infrastructure/busstop_vrs/BusStation_Normal"
+	"$surfaceprop" "Metal"
+	"$surfaceprop2" "Glass"
+	"$alphatest" 1
+}

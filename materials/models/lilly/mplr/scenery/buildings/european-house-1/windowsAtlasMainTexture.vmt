@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/mplr/scenery/buildings/european-house-1/windowsAtlasMainTexture"
+	"$envmapmask" "models/lilly/mplr/scenery/buildings/european-house-1/WindowsAtlas_env"
+	"$surfaceprop" "Glass"
+}

@@ -1,7 +1,7 @@
 "VertexLitGeneric"
 {
 	"$basetexture" "models/lilly/mplr/signals/trafficlight/signal"
-	
+	$normalmap "models/lilly/mplr/signals/trafficlight/signal_n"
 	"$selfillum" "1"                        // Enables glow
     "$selfillumtint" "[1 1 1]"              // Color of the glow (white here)
     "$selfillummask" "models/lilly/mplr/signals/trafficlight/lens_bar_mask" // Optional mask to control glowing areas

@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "skybox/cleansky_rt"
+	$hdrbasetexture "skybox/cleansky_rt.vtf"
+	"$nofog" 1
+	"$ignorez" 1
+}

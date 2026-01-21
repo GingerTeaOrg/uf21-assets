@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/scenery/buildings/european-house-1/House1MainTexture"
+	"$normalmap" "models/lilly/scenery/buildings/european-house-1/house1_n"
+	"$surfaceprop" "Concrete"
+	"$surfaceprop2" "Concrete_block"
+}
