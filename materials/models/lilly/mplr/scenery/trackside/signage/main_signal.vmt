@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/mplr/scenery/trackside/signage/main_signal"
+	$surfaceprop metal
+}
